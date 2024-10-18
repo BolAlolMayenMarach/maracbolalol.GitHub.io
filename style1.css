@@ -1,0 +1,57 @@
+body {
+    color: #333;
+    font-family: Arial, sans-serif;
+    background-image:url('unsplash\ pic.jpg');
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    background-position: center;
+    background-size: cover;
+
+}
+ .header{
+    background-color: #4caf50;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.h1{
+    font-size: xx-large;
+    color: blue;
+    margin: 20px;
+    text-align:center;
+    
+} 
+h2{
+    color: blue;
+    padding: 0px;
+}
+
+section {
+   margin:0;
+   padding: 0;
+   color: white;
+   
+}
+
+img{
+    max-width: 20%;
+    height: auto;
+}
+footer{
+    margin: 30px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+nav a{
+    color: gold;
+    text-decoration: underline;
+    margin: 0 10px;
+    font: 18px;
+    font-size: 18px;
+}
